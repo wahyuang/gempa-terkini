@@ -16,7 +16,7 @@ export default function Home(props) {
 						<div className="text-center mb-10">
 							<div className="font-bold text-4xl mb-10">Data Gempa Terkini</div>
 							<p>Berikut adalah 15 catatan gempa terakhir yang dirasakan di wilayah Indonesia.</p>
-							<p className="mt-2 text-sm"><strong>Disclaimer</strong>: data di bawah ini diambil langsung melalui website dokumentasi <strong>BMKG Indonesia</strong> dengan link <a href="https://data.bmkg.go.id/gempabumi/" class="italic underline text-cyan-600" target="_blank">https://data.bmkg.go.id/gempabumi/</a></p>
+							<p className="mt-2 text-sm"><strong>Disclaimer</strong>: data di bawah ini diambil langsung melalui website dokumentasi <strong>BMKG Indonesia</strong> dengan link <a href="https://data.bmkg.go.id/gempabumi/" className="italic underline text-cyan-600" target="_blank" rel="noreferrer" title="BMKG Indonesia">https://data.bmkg.go.id/gempabumi/</a></p>
 						</div>
 
 						<div className="space-y-5">
